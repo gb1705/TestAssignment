@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687733167692",
+    "project_id": "testassignment-f2d07",
+    "storage_bucket": "testassignment-f2d07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687733167692:android:72c948c985bdef08b506e9",
+        "android_client_info": {
+          "package_name": "com.gb.testassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv9sd3-KSWKKdvGzv7H1UUTGlX_ZWI4vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
